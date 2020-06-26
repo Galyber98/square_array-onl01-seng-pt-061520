@@ -6,4 +6,4 @@ def square_array(array)
   end
 end
 
-empty array = [] 
+empty array = [] << number ** 2
