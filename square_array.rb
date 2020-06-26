@@ -8,7 +8,7 @@ end
 
 def new_numbers(array)
   array.collect do |number|
-    number ** 2
+    puts array
   end
 end 
   
